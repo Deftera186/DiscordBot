@@ -1,0 +1,7 @@
+requests==2.22.0
+discord.py
+beautifulsoup4==4.8.2
+python-dotenv==0.11.0
+lxml
+aiohttp
+python-socketio[asyncio_client]

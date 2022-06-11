@@ -1,0 +1,238 @@
+{
+    "Triggers":[
+        {
+            "triggers":[
+                "בתול"
+            ],
+            "response":"הבתול היחידי כאן",
+            "ping":true,
+            "word_detection":true
+        },
+        {
+            "triggers":[
+                "סתום",
+                "שתוק"
+            ],
+            "response":"אתה תסתום לאף אחד לא אכפת ממך",
+            "ping":true,
+            "word_detection":true
+        },
+        {
+            "triggers":[
+                "קניה"
+            ],
+            "response":"קניה",
+            "ping":false,
+            "word_detection":null
+        },
+        {
+            "triggers":[
+                "היי"
+            ],
+            "response":"מה נשמע",
+            "ping":true,
+            "word_detection":true
+        },
+        {
+            "triggers":[
+                "שיר לי את שיר התן"
+            ],
+            "response":"תן, תן, תן, תן\nלעולם בעקבות התן\nלעולם בעקבות התן\nהתן את יומי נותן\nוליבי תן",
+            "ping":false,
+            "word_detection":null
+        },
+        {
+            "triggers":[
+                "תנדור"
+            ],
+            "response":"נודר",
+            "ping":false,
+            "word_detection":true
+        },
+        {
+            "triggers":[
+                "שיר",
+                "מוזיקה",
+                "השיר",
+                "לשיר"
+            ],
+            "response":"https://www.youtube.com/watch?v=Y7ix6RITXM0",
+            "ping":false,
+            "word_detection":true
+        },
+        {
+            "triggers":[
+                "בריון"
+            ],
+            "response":"<@514499914646945793> הוא הבריון היחידי פה",
+            "ping":false,
+            "word_detection":true
+        },
+        {
+            "triggers":[
+                "רשע"
+            ],
+            "response":"<@514499914646945793> הוא הרשע היחידי פה",
+            "ping":false,
+            "word_detection":true
+        },
+        {
+            "triggers":[
+                "בסדר"
+            ],
+            "response":"אחלה, בתול",
+            "ping":false,
+            "word_detection":true
+        },
+        {
+            "triggers":[
+                "קשה"
+            ],
+            "response":"קשה יש רק בלחם, ואתה בתול",
+            "ping":false,
+            "word_detection":true
+        },
+        {
+            "triggers":[
+                "איך איתך"
+            ],
+            "response":"אצלי הכל טוב",
+            "ping":true,
+            "word_detection":false
+        },
+        {
+            "triggers":[
+                "תן",
+                ":ten:"
+            ],
+            "response":"תן",
+            "ping":false,
+            "word_detection":null
+        },
+        {
+            "triggers":[
+                "ok boomer"
+            ],
+            "response":"עזוב אותי חתיכת זקן",
+            "ping":false,
+            "word_detection":null
+        },
+        {
+            "triggers":[
+                "תמצוץ לי"
+            ],
+            "response":"איכס יהומו\nלמה אתה רוצה שאני אמצוץ לך?",
+            "ping":false,
+            "word_detection":null
+        },
+        {
+            "triggers":[
+                "גנב"
+            ],
+            "response":"<@!413689449986392064> הוא הגנב היחידי פה",
+            "ping":false,
+            "word_detection":true
+        },
+        {
+            "triggers":[
+                "הב"
+            ],
+            "response":"הב הב",
+            "ping":false,
+            "word_detection":true
+        },
+        {
+            "triggers":[
+                "בוא נשיר את שיר התן"
+            ],
+            "response":"יאללה בוא נשיר",
+            "ping":false,
+            "word_detection":null
+        },
+        {
+            "triggers":[
+                "יש לי שאלה"
+            ],
+            "response":"תשאל כבר חתיכת תן שכמוך",
+            "ping":true,
+            "word_detection":null
+        },
+        {
+            "triggers":[
+                "<@!654393263326756880>",
+                "<@654393263326756880>"
+            ],
+            "response":"מה אתה מתייג אותי? הערת אותי מהשינה.",
+            "ping":true,
+            "word_detection":false
+        },
+        {
+            "triggers":[
+                "תמות",
+                "למות"
+            ],
+            "response":"לא! אל תקשיב לאיש הנורא הזה! אל תמות!",
+            "ping":false,
+            "word_detection":true
+        },
+        {
+            "triggers":[
+                "תן מוצפן"
+            ],
+            "response":"תן מוצפן מקצה לקצה",
+            "ping":false,
+            "word_detection":null
+        },
+        {
+            "triggers":[
+                "בר",
+                "מורוותי",
+                "בר מורוותי"
+            ],
+            "response":"אני זה בר, מה אתה רוצה?",
+            "ping":false,
+            "word_detection":null
+        },
+        {
+            "triggers":[
+                "בוט מסריח"
+            ],
+            "response":"תלך למשוב ובדיחה ותגיד להם איך לשפר אותי. עכשיו שתוק",
+            "ping":true,
+            "word_detection":null
+        },
+        {
+            "triggers":[
+                "קח"
+            ],
+            "response":"אני מעדיף תן",
+            "ping":false,
+            "word_detection":null
+        },
+        {
+            "triggers":[
+                "כן"
+            ],
+            "response":"אומרים תן",
+            "ping":false,
+            "word_detection":null
+        },
+        {
+            "triggers":[
+                ":taha:",
+                "תעה"
+            ],
+            "response":"תעה רצח",
+            "ping":false,
+            "word_detection":true
+        },
+        {
+            "triggers":[
+                "אני אוהב אותך"
+            ],
+            "response":"גם אני אוהב אותך מאמי",
+            "ping":false,
+            "word_detection":false
+        }
+    ]
+}
